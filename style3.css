@@ -1,0 +1,14 @@
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    background-color: tomato;
+}
+
+iframe{
+    width: 80%;
+    height: 90vh;
+}
+
+div{
+    text-align: center;
+}

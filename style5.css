@@ -1,0 +1,19 @@
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    background-color: tomato;
+}
+
+.seccion-1{
+    text-align: center;
+}
+
+.img-1{
+    width: 500px;
+    height: 250px;
+}
+
+div{
+    text-align: right;
+    float: right;
+}

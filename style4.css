@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: tomato;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    font-size: 26px;
+}
+
+div{
+    height: 500px;
+    text-align: center;
+}
+
+.img-femenino{
+    width: 700px;
+}
+

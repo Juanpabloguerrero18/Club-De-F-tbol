@@ -1,0 +1,39 @@
+.titulo {
+    text-align: center;
+    font-size: 40px;
+    background-color: tomato;
+}
+
+.entrenamiento {
+    width: 1000px;
+    height: 550px;
+    
+}
+
+.parrafo {
+    text-align: center;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-family: monospace;
+    font-size: 23px;
+}
+
+li{
+    font-size: 25px;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    gap: 109px;
+    padding-top: 20px;
+}
+
+
+
+

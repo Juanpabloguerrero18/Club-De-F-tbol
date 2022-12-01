@@ -1,0 +1,69 @@
+.titulo {
+    text-align: center;
+    font-size: 40px;
+    background-color: tomato;
+}
+
+.seccion-1 {
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo-2{
+    text-align: center;
+    font-size: 40px;
+    background-color: tomato;
+}
+
+.seccion-2{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.copa-libertadores{
+    height: 650px;
+    width: 450px;
+}
+
+.champion-league{
+    height: 450px;
+    width: 700px;
+}
+
+h3{
+    color: red;
+}
+
+.titulo-3{
+    text-align: center;
+    font-size: 40px;
+    background-color: tomato;
+}
+
+.seccion-3{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.messi-1{
+    height: 360px;
+    width: 507px;
+}
+
+.criss{
+    height: 580px;
+    width: 507px;
+}
+
+.maradona-1{
+    height: 580px;
+    width: 507px;
+}
+
+.pelé-1{
+    height: 480px;
+    width: 607px;
+}
